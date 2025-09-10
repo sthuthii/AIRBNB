@@ -2,10 +2,8 @@
 
 📌 Overview
 
-This project is inspired by Chapter 2 of "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron.
-Instead of the California housing dataset, we use the Seattle Airbnb Open Data to build a regression pipeline that predicts Airbnb listing prices.
 
-The workflow follows the book’s structure:
+The workflow:
 
 Data exploration & visualization
 
