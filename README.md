@@ -98,7 +98,6 @@ One-hot encode neighbourhood
 
 📊 Data Visualization
 
-Following the book’s style:
 
 Price distribution histogram
 
